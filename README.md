@@ -7,4 +7,4 @@
 
 **1. Kiểu dữ liệu:**
 
-
+**Class:** Là kiểu **tham chiếu (reference type)**. Khi bạn gán một biến kiểu class, nó sẽ tham chiếu đến một **thể hiện (instance)** của lớp đó trong bộ nhớ. Thay đổi giá trị của biến sẽ ảnh hưởng đến tất cả các biến khác tham chiếu đến cùng một thể hiện.
