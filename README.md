@@ -1,6 +1,10 @@
 # struct-and-class-difference-swift-
 ##  struct and class difference swift
 
-https://chat.openai.com/c/eedc2739-6a26-49e6-b6d0-fa7c78b21d34 <br><br>
+### Phân biệt Class và Struct trong Swift và cách sử dụng
 
-https://www.programiz.com/swift-programming/structs
+**Lớp (Class) và cấu trúc (Struct)** là hai kiểu dữ liệu được sử dụng để tạo ra các kiểu dữ liệu tùy chỉnh trong **Swift.** Tuy nhiên, chúng có một số điểm khác biệt quan trọng về cách hoạt động và cách sử dụng. <br><br>
+
+**1. Kiểu dữ liệu:**
+
+
