@@ -33,3 +33,19 @@
 + ) Khi cần tạo ra các kiểu dữ liệu có thể thay đổi. <br><br>
 
 **Khi nào nên sử dụng Struct:** <br><br>
+
++ ) Khi cần tạo ra các kiểu dữ liệu đơn giản với ít thuộc tính và phương thức. <br><br>
++ ) Khi cần hiệu suất cao.  <br><br>
++ ) Khi cần tạo ra các kiểu dữ liệu không thay đổi. <br><br>
+
+![Screenshot 2024-03-03 at 2 46 58 PM](https://github.com/Experimenters1/struct-and-class-difference-swift-/assets/64000769/99a4e94b-88c5-4cbc-b1d1-a22d8a34f5f4) <br><br>
+
+**Ví dụ:**  <br><br>
++ ) **Class:** Sử dụng class để tạo ra các kiểu dữ liệu như **Car, Person, Animal** với nhiều thuộc tính và phương thức. <br><br>
++ ) **Struct:** Sử dụng struct để tạo ra các kiểu dữ liệu như **Point, Size, Color** với ít thuộc tính và phương thức. <br><br>
+
+**Kết luận:** <br><br>
+Lựa chọn sử dụng class hay struct phụ thuộc vào nhu cầu cụ thể của mỗi trường hợp. Việc hiểu rõ sự khác biệt giữa hai kiểu dữ liệu này sẽ giúp bạn sử dụng chúng một cách hiệu quả nhất. <br><br>
+
+
+
