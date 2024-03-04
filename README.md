@@ -47,5 +47,16 @@
 **Kết luận:** <br><br>
 Lựa chọn sử dụng class hay struct phụ thuộc vào nhu cầu cụ thể của mỗi trường hợp. Việc hiểu rõ sự khác biệt giữa hai kiểu dữ liệu này sẽ giúp bạn sử dụng chúng một cách hiệu quả nhất. <br><br>
 
+## Ví dụ : 
+**File : Class and struct :** <br><br>
++ ) Trong ví dụ trên, **lớp (class)** được sử dụng để định nghĩa một đối tượng **Person** có khả năng thay đổi tuổi khi kỷ niệm sinh nhật. Trong khi đó, cấu trúc cũng định nghĩa một **đối tượng Person tương tự, nhưng với cách tiếp cận giá trị (value type)**. Điều này dẫn đến sự khác biệt trong cách thực hiện và sử dụng giữa hai loại kiểu này.<br><br>
+
++ ) Trong ví dụ trên, khi sử dụng **lớp (class)**, thay đổi trên **một đối tượng được chia sẻ đến tất cả các tham chiếu đến đối tượng đó.** Trong khi đó, sử dụng **cấu trúc (Struct)**, mỗi đối tượng là **một bản sao độc lập và thay đổi trên một bản sao không ảnh hưởng đến bản gốc.** <br><br>
+
+**struct-and-class-difference :** <br><br>
+
+Trong ví dụ này, khi sử dụng **lớp (MyClass)**, thay đổi trên một đối tượng được chia sẻ đến tất cả các **tham chiếu** đến đối tượng đó **(object1 và object2).** Trong khi đó, khi sử dụng cấu trúc **(MyStruct)**, mỗi đối tượng là một bản sao độc lập và thay đổi trên một bản sao không ảnh hưởng đến bản gốc **(object3 và object4).** <br><br>
+
+
 
 
